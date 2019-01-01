@@ -45,7 +45,7 @@ You can find the full tutorial on how to create this bot by visiting the [Vogue 
 
 ## Additional Resources
 
-[Twilio Python Helper Library](https://gitforwindows.org/) 
+[Twilio Python Helper Library](https://www.twilio.com/docs/libraries/python) 
 
 [Amazon Alexa Skills Kit](https://developer.amazon.com/alexa-skills-kit?&sc_category=Owned&sc_channel=WB&sc_campaign=TopNav&sc_publisher=website&sc_content=Content&sc_funnel=Discover&sc_country=US&sc_medium=Owned_WB_TopNav_website_Content_Discover_US_newdev&sc_segment=newdev)
 
