@@ -1,10 +1,10 @@
 ## <p align="center">Create an Amazon Alexa Skill with Twilio Autopilot</p>
 <p align="center">
-  <a href="https://github.com/aprilspeight/commandlinetutorials/blob/master/README.md#tutorials">Overview</a> | 
-  <a href="https://github.com/aprilspeight/commandlinetutorials/blob/master/README.md#cheatsheets">Prerequisites</a> |
-  <a href="https://github.com/aprilspeight/commandlinetutorials/blob/master/README.md#cheatsheets">Tutorial</a> |
-  <a href="https://github.com/aprilspeight/commandlinetutorials/blob/master/README.md#additional-resources">Additional Resources</a> | 
-  <a href="https://github.com/aprilspeight/commandlinetutorials/blob/master/README.md#support">Support</a>
+  <a href="https://github.com/aprilspeight/monty/blob/master/README.md#overview">Overview</a> | 
+  <a href="https://github.com/aprilspeight/monty/blob/master/README.md#prerequisites">Prerequisites</a> |
+  <a href="https://github.com/aprilspeight/monty/blob/master/README.md#tutorial">Tutorial</a> |
+  <a href="https://github.com/aprilspeight/monty/blob/master/README.md#additional-resources">Additional Resources</a> | 
+  <a href="https://github.com/aprilspeight/monty/blob/master/README.md#support">Support</a>
 </p>
 
 ## Overview
