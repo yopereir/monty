@@ -41,7 +41,7 @@ Download the files in this repository. In this tutorial, I will refer to each fi
 
 ## Tutorial
 
-You can find the full tutorial on how to create this bot by visiting the [Vogue & Code](https://www.vogueandcode.com/blog/projects/monty) website.
+You can find the full tutorial on how to create this bot by visiting the [Vogue & Code](https://www.vogueandcode.com/blog/tutorials/monty) website.
 
 ## Additional Resources
 
