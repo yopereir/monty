@@ -19,7 +19,7 @@ Before we get started, you’ll need to understand the flow of the conversation 
 
 Since we’ll be using my AI Bot Monty for this tutorial, the prompts presented in the project files are dedicated to the Python language.
 
-**DISCLAIMER**: Twilio Autopilot is still in Beta phase. In the event that tutorial files are not working properly for you, please refer to the [Twilio Autopilot Python Quickstart](https://www.twilio.com/docs/autopilot/quickstart/python#create-and-train-your-assistants-default-task) documentation.
+**DISCLAIMER**: In the event that tutorial files are not working properly for you, please refer to the [Twilio Autopilot Python Quickstart](https://www.twilio.com/docs/autopilot/quickstart/python#create-and-train-your-assistants-default-task) documentation.
 
 ## Prerequisites
 
